@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# do not store the secrets files in Git repository's root folder
+SECRETS.txt
